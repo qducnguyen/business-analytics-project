@@ -17,7 +17,7 @@ docker compose -f deploy/metabase-postgres.docker-compose.yml start  // start do
 Now you can access Metabase at http://localhost:3000/
 ### Metabase Setup
 
-**Sharing Data**: After running docker compose, we got all the metabase data in `db-data/` which indeed postgresql data folder. We could use this folder to share metabase data. (create `db-data/`([Download here](https://file.io/M1YBPOXkR3fI)) first before running docker compose).
+**Using Shared Data**: After running docker compose, we got all the metabase data in `db-data/` which indeed postgresql data folder. We could use this folder to share metabase data. (create `db-data/`([Download here](https://file.io/M1YBPOXkR3fI)) first before running docker compose).
 ```
 email: example@example.com
 password: IloveMetabase123@
