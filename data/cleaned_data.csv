@@ -1,4 +1,4 @@
-date,province,region,ratio_tourist_stay,no_tourist_stay,no_tourist_all,no_tourist_thai,no_tourist_foreign,revenue_all,revenue_thai,revenue_foreign
+date,province,region,occupancy_rate,no_tourist_occupied,no_tourist_all,no_tourist_thai,no_tourist_foreign,revenue_all,revenue_thai,revenue_foreign
 2019-01-01,Bangkok Metropolis,central,0.9337000000000001,3334971,5959075,3534061,2425014,81926490000,29742580000,52183910000
 2019-01-01,Lop Buri,central,0.6132,51858,268664,266301,2363,457240000,451830000,5410000
 2019-01-01,Phra Nakhon Si Ayutthaya,central,0.7337,117052,730329,561553,168776,1438730000,1054250000,384480000
